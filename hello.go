@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-  fmt.Println("hello from branch2")
+  fmt.Println("hello from branch2 no2")
 
 }
